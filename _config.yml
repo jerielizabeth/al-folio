@@ -55,7 +55,7 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # -----------------------------------------------------------------------------
 
 blog_name: from data to scholarship  # your blog must have a name for it to show up in the nav bar
-blog_description: history, religion, and computers
+blog_description: history, religion, computers
 permalink: /:year/:month/:day/:title/
 
 # Pagination
